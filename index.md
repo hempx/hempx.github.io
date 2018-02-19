@@ -1,2 +1,2 @@
 ## Projects:
-### [MMCompare](https://hempx.github.io/MMCompare)
+### [MMCompare](https://hempx.github.io/MMCompare.html)
